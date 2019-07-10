@@ -1,0 +1,95 @@
+.spazio-register {
+  margin-top: 150px;
+  margin-bottom: 180px;
+}
+
+.login {
+  width: 100%;
+  margin-top: 150px;
+  margin-bottom: 250px;
+}
+
+html {
+  position: relative;
+  height: 100%;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.button {
+  border-radius: 5px;
+}
+
+.logout a:hover {
+  color: white;
+}
+
+.prova {
+  width: 100%;
+  height: 100%;
+  background-color: #00000091;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: none;
+}
+
+.prova2 {
+  width: 800px;
+  height: 80%;
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+}
+
+.prova2 h3 {
+  text-align: center;
+}
+.prova2 h5 {
+  text-align: left;
+}
+.manina {
+  cursor: pointer;
+}
+
+.img_acquisto {
+  height: 150px;
+  margin: 30px;
+}
+.biglietti {
+  margin: 30px;
+}
+
+.biglietti-form {
+  margin: 10px;
+}
+
+.info-cinema {
+  padding: 20px;
+}
+
+.bottone-chiudi {
+  display: flex;
+  justify-content: flex-end;
+}
+.info-cinema h1 {
+  text-align: center;
+  color: #ec5000;
+  margin-bottom: 20px;
+  font-family: "Handlee", cursive;
+}
+
+.info-cinema h5 {
+  text-align: center;
+  margin-bottom: 80px;
+}
